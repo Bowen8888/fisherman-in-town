@@ -1,10 +1,11 @@
 import React from 'react';
 import logo from './logo.svg';
 import Home from './Home';
+import Skills from './Skills'
 import './App.css';
 
 import {
-  BrowserRouter,
+  HashRouter as Router,
   Switch,
   Route
 } from "react-router-dom";
@@ -27,12 +28,12 @@ function App() {
     //     </a>
     //   </header>
     // </div>
-    <BrowserRouter>
+    <Router>
       <Switch>
         <Route exact path="/" component={Home}></Route>
-        <Route path="/something" component={Home}></Route>
+        <Route path="/skills" component={Skills}></Route>
       </Switch>
-    </BrowserRouter>
+    </Router>
   );
 }
 
