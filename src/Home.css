@@ -2,4 +2,21 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    max-width: 1200px;
+
+    padding: 20px;
+    background-color: #fff;
+    max-height: 100%;
+    align-items: center;
+}
+
+.HomeContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    padding: 20px;
+    background-color: #fff;
+    max-height: 100%;
+    align-items: center;
 }

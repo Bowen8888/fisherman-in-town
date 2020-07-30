@@ -8,7 +8,7 @@ import './Home.css'
 export default class Home extends Component {
     render() {
         return (
-            <div>
+            <div className="HomeContainer">
                 <Header />
                 <div className="CardsSection">
                     <Card name="Skills"
@@ -40,6 +40,16 @@ export default class Home extends Component {
                           description="Where you live."
                           link="/skills"
                           imgPath='/images/Housing.png'>
+                    </Card>
+                    <Card name="Privacy Policy"
+                          description=""
+                          link="/"
+                          imgPath=''>
+                    </Card>
+                    <Card name="Contact us"
+                          description="fisherman.in.town@gmail.com"
+                          link="/"
+                          imgPath=''>
                     </Card>
                 </div>
             </div>

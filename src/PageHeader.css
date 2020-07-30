@@ -1,0 +1,25 @@
+.PageHeaderContainer {
+    background-color: white;
+    border-radius: 4px;
+    box-shadow: 1px 2px 6px 1px rgba(0,0,0,0.3);
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.PageHeaderTitle {
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.PageHeaderDescriptionSection {
+    flex-direction: column;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: #fff;
+    display: flex;
+    max-height: 100%;
+    align-items: center;
+}
