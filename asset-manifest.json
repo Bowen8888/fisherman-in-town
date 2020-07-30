@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/fisherman-in-town/static/css/main.394a88e7.chunk.css",
-    "main.js": "/fisherman-in-town/static/js/main.72a691bc.chunk.js",
-    "main.js.map": "/fisherman-in-town/static/js/main.72a691bc.chunk.js.map",
+    "main.css": "/fisherman-in-town/static/css/main.7e698edb.chunk.css",
+    "main.js": "/fisherman-in-town/static/js/main.540cca54.chunk.js",
+    "main.js.map": "/fisherman-in-town/static/js/main.540cca54.chunk.js.map",
     "runtime-main.js": "/fisherman-in-town/static/js/runtime-main.3556c90a.js",
     "runtime-main.js.map": "/fisherman-in-town/static/js/runtime-main.3556c90a.js.map",
-    "static/js/2.834033a9.chunk.js": "/fisherman-in-town/static/js/2.834033a9.chunk.js",
-    "static/js/2.834033a9.chunk.js.map": "/fisherman-in-town/static/js/2.834033a9.chunk.js.map",
+    "static/js/2.0b2ced17.chunk.js": "/fisherman-in-town/static/js/2.0b2ced17.chunk.js",
+    "static/js/2.0b2ced17.chunk.js.map": "/fisherman-in-town/static/js/2.0b2ced17.chunk.js.map",
     "index.html": "/fisherman-in-town/index.html",
-    "precache-manifest.0d7dbe169ab1715737c5bcc3ca036b71.js": "/fisherman-in-town/precache-manifest.0d7dbe169ab1715737c5bcc3ca036b71.js",
+    "precache-manifest.bf01de81592e15e8617a4ad2d01be431.js": "/fisherman-in-town/precache-manifest.bf01de81592e15e8617a4ad2d01be431.js",
     "service-worker.js": "/fisherman-in-town/service-worker.js",
-    "static/css/main.394a88e7.chunk.css.map": "/fisherman-in-town/static/css/main.394a88e7.chunk.css.map",
-    "static/js/2.834033a9.chunk.js.LICENSE.txt": "/fisherman-in-town/static/js/2.834033a9.chunk.js.LICENSE.txt",
+    "static/css/main.7e698edb.chunk.css.map": "/fisherman-in-town/static/css/main.7e698edb.chunk.css.map",
+    "static/js/2.0b2ced17.chunk.js.LICENSE.txt": "/fisherman-in-town/static/js/2.0b2ced17.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/fisherman-in-town/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.3556c90a.js",
-    "static/js/2.834033a9.chunk.js",
-    "static/css/main.394a88e7.chunk.css",
-    "static/js/main.72a691bc.chunk.js"
+    "static/js/2.0b2ced17.chunk.js",
+    "static/css/main.7e698edb.chunk.css",
+    "static/js/main.540cca54.chunk.js"
   ]
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6c80321e0aaf383e828aad6e13f5c96e",
+    "revision": "06365b258a3536bba08410abdf0b582f",
     "url": "/fisherman-in-town/index.html"
   },
   {
-    "revision": "334c2f1c1aa67383cea3",
-    "url": "/fisherman-in-town/static/css/main.394a88e7.chunk.css"
+    "revision": "817f0c544900dc86c4e7",
+    "url": "/fisherman-in-town/static/css/main.7e698edb.chunk.css"
   },
   {
-    "revision": "b026a187694a2c55430a",
-    "url": "/fisherman-in-town/static/js/2.834033a9.chunk.js"
+    "revision": "3b1e43a2e537518c9f10",
+    "url": "/fisherman-in-town/static/js/2.0b2ced17.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/fisherman-in-town/static/js/2.834033a9.chunk.js.LICENSE.txt"
+    "url": "/fisherman-in-town/static/js/2.0b2ced17.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "334c2f1c1aa67383cea3",
-    "url": "/fisherman-in-town/static/js/main.72a691bc.chunk.js"
+    "revision": "817f0c544900dc86c4e7",
+    "url": "/fisherman-in-town/static/js/main.540cca54.chunk.js"
   },
   {
     "revision": "2e6ceab462fb07d4c7aa",
