@@ -1,0 +1,12 @@
+.FeatureContainer {
+    width: 280px;
+    height: 280px;
+    background-color: white;
+    border-radius: 4px;
+    box-shadow: 1px 2px 6px 1px rgba(0,0,0,0.1);
+    margin: 20px;
+}
+
+.CardContainer {
+    flex: 0 0 auto;
+}
