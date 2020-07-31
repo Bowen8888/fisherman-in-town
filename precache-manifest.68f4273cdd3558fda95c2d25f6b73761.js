@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e26094af09b8ced94182a772f8048fb9",
+    "revision": "935c520ef51dd280381f35a0f5c183cd",
     "url": "/fisherman-in-town/index.html"
   },
   {
