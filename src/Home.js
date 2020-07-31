@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, {Component} from "react";
 
 import Card from './Card';
 import Header from './Header'
@@ -9,7 +9,7 @@ export default class Home extends Component {
     render() {
         return (
             <div className="HomeContainer">
-                <Header />
+                <Header/>
                 <div className="CardsSection">
                     <Card name="Skills"
                           description="Your sources of income."
@@ -41,16 +41,15 @@ export default class Home extends Component {
                           link="/skills"
                           imgPath='/images/Housing.png'>
                     </Card>
-                    <Card name="Privacy Policy"
-                          description=""
-                          link="/"
-                          imgPath=''>
-                    </Card>
-                    <Card name="Contact us"
-                          description="fisherman.in.town@gmail.com"
-                          link="/"
-                          imgPath=''>
-                    </Card>
+                </div>
+
+                <div className="HomeFooter">
+                    Contact us : fisherman.in.town@gmail.com |
+                    <a href="https://fisherman-in-town.flycricket.io/privacy.html"
+                       target="_blank"
+                       className="HomeFooter">
+                        Privacy Policy
+                    </a>
                 </div>
             </div>
         )
