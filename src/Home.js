@@ -23,7 +23,7 @@ export default class Home extends Component {
                     </Card>
                     <Card name="Aquarium"
                           description="View your fishes."
-                          link="/skills"
+                          link="/aquarium"
                           imgPath='/images/Aquarium.png'>
                     </Card>
                     <Card name="Equipment"
@@ -33,7 +33,7 @@ export default class Home extends Component {
                     </Card>
                     <Card name="Food"
                           description="Source of energy."
-                          link="/skills"
+                          link="/food"
                           imgPath='/images/Food.png'>
                     </Card>
                     <Card name="Housing"

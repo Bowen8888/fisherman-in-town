@@ -2,6 +2,8 @@ import React from 'react';
 import logo from './logo.svg';
 import Home from './Home';
 import Skills from './Skills'
+import Food from './Food'
+import Aquarium from "./Aquarium";
 import './App.css';
 
 import {
@@ -32,6 +34,8 @@ function App() {
       <Switch>
         <Route exact path="/" component={Home}></Route>
         <Route path="/skills" component={Skills}></Route>
+        <Route path="/food" component={Food}></Route>
+        <Route path="/aquarium" component={Aquarium}></Route>
       </Switch>
     </Router>
   );
