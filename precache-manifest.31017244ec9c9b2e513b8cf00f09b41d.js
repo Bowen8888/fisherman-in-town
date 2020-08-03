@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b34e4b4acac5eb454b6f1db7981b789d",
+    "revision": "26d1948ea1feb30444c1e7b6b7eda993",
     "url": "/fisherman-in-town/index.html"
   },
   {
-    "revision": "2dddd43673ff0add0520",
+    "revision": "0c9fa7ddb30808073661",
     "url": "/fisherman-in-town/static/css/main.53c65096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fisherman-in-town/static/js/2.905fbe7d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2dddd43673ff0add0520",
-    "url": "/fisherman-in-town/static/js/main.c89cbbaa.chunk.js"
+    "revision": "0c9fa7ddb30808073661",
+    "url": "/fisherman-in-town/static/js/main.d4feab7a.chunk.js"
   },
   {
     "revision": "2e6ceab462fb07d4c7aa",
