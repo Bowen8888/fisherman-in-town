@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fisherman-in-town/precache-manifest.da0494661a396dcf3f5e77b2571cda89.js"
+  "/fisherman-in-town/precache-manifest.5710e57fbe191ad5c564a3aa3332315f.js"
 );
 
 self.addEventListener('message', (event) => {
