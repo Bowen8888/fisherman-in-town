@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import Home from './Home';
 import Skills from './Skills'
 import Food from './Food'
@@ -11,31 +10,21 @@ import {
   Switch,
   Route
 } from "react-router-dom";
+import Activity from "./Activity";
+import Housing from "./Housing";
+import Equipment from "./Equipment";
 
 function App() {
   return (
-    // <div className="App">
-    //   <header className="App-header">
-    //     <img src={logo} className="App-logo" alt="logo" />
-    //     <p>
-    //       Edit <code>src/App.js</code> and save to reload.
-    //     </p>
-    //     <a
-    //       className="App-link"
-    //       href="https://reactjs.org"
-    //       target="_blank"
-    //       rel="noopener noreferrer"
-    //     >
-    //       Learn React
-    //     </a>
-    //   </header>
-    // </div>
     <Router>
       <Switch>
-        <Route exact path="/" component={Home}></Route>
-        <Route path="/skills" component={Skills}></Route>
-        <Route path="/food" component={Food}></Route>
-        <Route path="/aquarium" component={Aquarium}></Route>
+        <Route exact path="/" component={Home}/>
+        <Route path="/skills" component={Skills}/>
+        <Route path="/food" component={Food}/>
+        <Route path="/aquarium" component={Aquarium}/>
+        <Route path="/activity" component={Activity}/>
+        <Route path="/housing" component={Housing}/>
+        <Route path="/equipment" component={Equipment}/>
       </Switch>
     </Router>
   );

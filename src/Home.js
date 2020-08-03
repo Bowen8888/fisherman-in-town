@@ -18,7 +18,7 @@ export default class Home extends Component {
                     </Card>
                     <Card name="Activity"
                           description="Have fun!"
-                          link="/skills"
+                          link="/activity"
                           imgPath='/images/Activity.png'>
                     </Card>
                     <Card name="Aquarium"
@@ -28,7 +28,7 @@ export default class Home extends Component {
                     </Card>
                     <Card name="Equipment"
                           description="View your equipments."
-                          link="/skills"
+                          link="/equipment"
                           imgPath='/images/Equipment.png'>
                     </Card>
                     <Card name="Food"
@@ -38,7 +38,7 @@ export default class Home extends Component {
                     </Card>
                     <Card name="Housing"
                           description="Where you live."
-                          link="/skills"
+                          link="/housing"
                           imgPath='/images/Housing.png'>
                     </Card>
                 </div>
