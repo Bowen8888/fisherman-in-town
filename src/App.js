@@ -13,6 +13,7 @@ import {
 import Activity from "./Activity";
 import Housing from "./Housing";
 import Equipment from "./Equipment";
+import ComingUps from "./ComingUps";
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
         <Route path="/activity" component={Activity}/>
         <Route path="/housing" component={Housing}/>
         <Route path="/equipment" component={Equipment}/>
+        <Route path="/comingUps" component={ComingUps}/>
       </Switch>
     </Router>
   );

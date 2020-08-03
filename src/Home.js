@@ -41,6 +41,11 @@ export default class Home extends Component {
                           link="/housing"
                           imgPath='/images/Housing.png'>
                     </Card>
+                    <Card name="What's coming up?"
+                          description="View our next release features."
+                          link="/comingUps"
+                          imgPath='/images/Icon.png'>
+                    </Card>
                 </div>
 
                 <div className="HomeFooter">
