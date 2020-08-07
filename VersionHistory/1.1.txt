@@ -1,0 +1,20 @@
+New Features:
+
+	Settings panel.
+	You can now change game timer mode to automatic in settings. 
+	Tutorials are added, which can be found in settings as well.
+	Status color will change to red when status is low.
+	Game Center Login button added to settings.
+	In Aquarium, you can now sell all fishes below rarity blue at once.
+
+UI rearrangement:
+
+	Music and sound controls are moved to settings.
+	Footer can now be seen in food panel.
+	Foods are sorted by price.
+
+Bug fixes:
+
+	Investment related bugs are fixed.
+	Leader-board money update bug fixed.
+	Added dollar sign symbol to Food Price.
