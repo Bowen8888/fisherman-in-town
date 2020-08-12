@@ -1,0 +1,2 @@
+UI Rearrangement
+	In food panel, icons are added.
