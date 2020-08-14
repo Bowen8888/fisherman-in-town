@@ -1,0 +1,11 @@
+New Features:
+
+	Now you can own cars in housing panel.
+
+UI rearrangement:
+
+	Some rearrangement in housing panel.
+
+Bug fixes:
+
+	Aquarium market refresh fixed.
