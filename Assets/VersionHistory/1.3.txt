@@ -4,7 +4,7 @@ New Features:
 
 UI rearrangement:
 
-	Some rearrangement in housing panel.
+	The footer is now visible in housing panel.
 
 Bug fixes:
 
