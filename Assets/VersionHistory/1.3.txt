@@ -1,6 +1,7 @@
 New Features:
 
 	Now you can own cars in housing panel.
+	Each car has a special benefit.
 
 UI rearrangement:
 
