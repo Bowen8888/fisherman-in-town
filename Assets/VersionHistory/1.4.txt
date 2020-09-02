@@ -5,3 +5,4 @@ UI rearrangement:
 Bug fixes:
 
 	Skill level with two 500 proficiency points
+	Rod fishing bait and energy requirement for different rod not functioning.
