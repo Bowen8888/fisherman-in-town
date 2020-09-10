@@ -1,6 +1,7 @@
 New Features:
 	You can manage your boat and employees in real time.
 	The fishes and salary paid are shown in the history panel as your game time advance.
+	New fishes added.
 
 UI rearrangement:
 
