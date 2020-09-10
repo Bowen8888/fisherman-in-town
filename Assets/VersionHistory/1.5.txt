@@ -1,0 +1,9 @@
+New Features:
+	You can manage your boat and employees in real time.
+	The fishes and salary paid are shown in the history panel as your game time advance.
+
+UI rearrangement:
+
+Bug fixes:
+	In home panel, instead of buying cars automatically, you need to confirm before buying.
+	
