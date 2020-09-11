@@ -1,0 +1,7 @@
+New Features:
+
+UI rearrangement:
+
+Bug fixes:
+	Fish market prices bugs.
+	Fisherman names broken.
