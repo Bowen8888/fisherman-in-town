@@ -1,0 +1,6 @@
+New Features:
+
+UI rearrangement:
+	The main page header UI is redesigned.
+Bug fixes:
+	
