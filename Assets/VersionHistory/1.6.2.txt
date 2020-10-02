@@ -1,0 +1,7 @@
+New Features:
+
+UI rearrangement:
+	Food benefit panel updated.
+Bug fixes:
+	Fix boat fishing related bugs.
+	
