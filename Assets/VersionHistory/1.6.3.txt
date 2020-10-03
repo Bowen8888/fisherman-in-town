@@ -1,0 +1,6 @@
+New Features:
+
+UI rearrangement:
+	Bigger icons and font.
+Bug fixes:
+	
