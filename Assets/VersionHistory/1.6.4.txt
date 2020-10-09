@@ -1,0 +1,6 @@
+New Features:
+
+UI rearrangement:
+
+Bug fixes:
+	Fixed Fishing probability not showing issue.	
