@@ -1,0 +1,6 @@
+New Features:
+	New BGM!
+UI rearrangement:
+
+Bug fixes:
+	
