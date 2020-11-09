@@ -1,0 +1,6 @@
+New Features:
+UI rearrangement:
+
+Bug fixes:
+	1. Ingold name is wrong
+	2. Large cat fish is wrong
