@@ -1,6 +1,7 @@
 New Features:
 UI rearrangement:
-
+	1. Fonts are too small in home and activities.
 Bug fixes:
 	1. Ingold name is wrong
 	2. Large cat fish is wrong
+	3. Hospital name is wrong
