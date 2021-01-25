@@ -1,0 +1,11 @@
+1. screenshot in 5.5" for iphone.
+2. Open photoshop
+3. Ctrl + o Open a screenshot
+4. select the area you want to teach.
+5. ctrl shift + j creates a new page with the selection. Make sure it's on top of the original screenshot.
+6. Select your screenshot layer.
+7. click fx then select 光泽
+8. Change the distance to 1
+9. 合并可见图层
+10. ctrl + s
+11. ctrl + w
