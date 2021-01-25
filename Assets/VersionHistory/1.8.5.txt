@@ -1,0 +1,4 @@
+New Features:
+UI rearrangement:
+	1. New tutorial session that matches the new updates of the game.
+Bug fixes:
