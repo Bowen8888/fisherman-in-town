@@ -1,0 +1,8 @@
+New Features:
+	1. You can see your recent Activities in main page!
+UI rearrangement:
+	1. Fonts are too small in home and activities.
+Bug fixes:
+	1. Ingold name fixed.
+	2. Large cat fish fixed.
+	3. Hospital related issue fixed.
